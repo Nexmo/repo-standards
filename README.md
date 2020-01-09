@@ -34,8 +34,8 @@ Library (e.g NodeJS lib) | Demo/Tool (e.g. Demo for booth/customer use) | Suppor
 Detailed [usage docs](write-usage-docs.md) for all features | [Usage examples](write-usage-docs.md) | App may [set `User-Agent`](set-user-agent.md)
 A [CONTRIBUTING](contributing-template.md) FILE | A [CONTRIBUTING](contributing-template.md) FILE | 
 App **must** [set `User-Agent`](set-user-agent.md) | App *may* [set `User-Agent`](set-user-agent.md) |
-  | Docker setup |
-  | [One-click deployment setup](one-click-deploy.md) |
+&nbsp;  | Docker setup |
+&nbsp;  | [One-click deployment setup](one-click-deploy.md) |
 
 
 ## More README Resources
