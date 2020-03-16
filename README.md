@@ -1,5 +1,7 @@
 # Nexmo Repository Standards
 
+<img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
+
 *These are our internal-facing guidelines, published in the open in case anyone else finds them useful.*
 
 This project contains checklists, templates and other resources to include with your open source repository. Whether you're starting a new project or improving an existing one, please include any or all of the elements suggested below as appropriate to your repo.
