@@ -20,7 +20,7 @@ If you're not sure where something goes, or you don't have permission to create 
 
 Naming things is hard, this part is very important! Best practice: name the project after what it does rather than what it is made of. E.g. "joke telephone answering service" rather than "sinatra voice demo".
 
-- [ ] Give your repo **a description** and **some tags** - this is right at the top of the web interface, before the file listings. The description should cover the purpose and scope of the project. The tags can include `nexmo` as well as the technologies used and the features of the project. For example you could have tags: `nexmo` `python` `redis` `sms`
+- [ ] Give your repo **a description** and **some topics** - you can set these at the very top of the web interface, before the file listings. The description should cover the purpose and scope of the project. The tags should include `vonage` as well as the technologies used and the features of the project. For example you could have tags: `vonage` `python` `redis` `verify` `2fa`.
 
 - [ ] Every repo must have a **license**, this will be [MIT](https://opensource.org/licenses/MIT) in most cases. See also: [GitHub docs for adding a license to your repo](https://help.github.com/en/articles/adding-a-license-to-a-repository) and always choose a standard OSI-approved license.
 
