@@ -8,7 +8,7 @@ This project contains checklists, templates and other resources to include with 
 
 ## Which GitHub Org?
 
-Historically we have had three GitHub orgs:
+Historically we have had a number of GitHub orgs:
 
 - `nexmo` Our libraries, code snippet repos and other formally supported projects go here.
 - `nexmo-community` The community repo where we put sample apps, blog post examples, and other assorted items (things can be promoted into the main repo at a later date if widely adopted).
