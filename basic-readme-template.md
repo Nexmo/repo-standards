@@ -22,13 +22,12 @@ We love to hear from you so if you have questions, comments or find a bug in the
 
 * Open an issue on this repository
 * Tweet at us! We're [@VonageDev on Twitter](https://twitter.com/VonageDev)
-* Or [join the Vonage Community Slack](https://developer.nexmo.com/community/slack)
+* Or [join the Vonage Developer Community Slack](https://developer.nexmo.com/community/slack)
 
 ## Further Reading
 
 * Check out the Developer Documentation at <https://developer.nexmo.com>
 
 <!-- add links to the api reference, other documentation, related blog posts, whatever someone who has read this far might find interesting :) -->
-
 
 
