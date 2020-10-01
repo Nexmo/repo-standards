@@ -31,7 +31,7 @@ Naming things is hard, this part is very important! Best practice: name the proj
 
 While most of our `READMEs` should have some common features, different repo types have different requirements. Here is what we expect from the different types of repo.
 
-| Library (e.g Node.js lib)                                        | Demo/Tool (e.g. Demo for both/customer use)                    | Supporting code (e.g. for blog post)          |
+| Library (e.g Node.js lib)                                        | Demo/Tool (e.g. Demo for booth/customer use)                    | Supporting code (e.g. for blog post)          |
 | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------- |
 | [Installation instructions](write-installation-instructions.md) | [Installation instructions](write-installation-instructions.md) | Link to what this repo is supporting          |
 | Detailed [usage docs](write-usage-docs.md) for all features     | [Usage examples](write-usage-docs.md)                           | App may [set `User-Agent`](set-user-agent.md) |
