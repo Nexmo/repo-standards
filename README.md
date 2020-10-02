@@ -8,7 +8,7 @@ This project contains checklists, templates and other resources to include with 
 
 ## Which GitHub Org?
 
-Historically we have had a number of GitHub orgs:
+Historically, we have had a number of GitHub orgs:
 
 - `nexmo` Our libraries, code snippet repos and other formally supported projects go here.
 - `nexmo-community` The community repo where we put sample apps, blog post examples, and other assorted items (things can be promoted into the main repo at a later date if widely adopted).
@@ -31,7 +31,7 @@ Naming things is hard, this part is very important! Best practice: name the proj
 
 While most of our `READMEs` should have some common features, different repo types have different requirements. Here is what we expect from the different types of repo.
 
-| Library (e.g NodeJS lib)                                        | Demo/Tool (e.g. Demo for booth/customer use)                    | Supporting code (e.g. for blog post)          |
+| Library (e.g Node.js lib)                                        | Demo/Tool (e.g. Demo for booth/customer use)                    | Supporting code (e.g. for blog post)          |
 | --------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------- |
 | [Installation instructions](write-installation-instructions.md) | [Installation instructions](write-installation-instructions.md) | Link to what this repo is supporting          |
 | Detailed [usage docs](write-usage-docs.md) for all features     | [Usage examples](write-usage-docs.md)                           | App may [set `User-Agent`](set-user-agent.md) |
