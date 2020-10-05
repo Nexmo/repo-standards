@@ -45,6 +45,7 @@ While most of our `READMEs` should have some common features, different repo typ
 
 You may find these resources useful for structuring your project's README file (edit and add your favourites!)
 
-- https://github.com/noffle/art-of-readme
-- https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-- https://betta.io/blog/2017/02/07/developer-experience-github-readmes
+- [Art of Readme](https://github.com/noffle/art-of-readme)
+- [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- [Developer Experience: GitHub READMEs](https://betta.io/blog/2017/02/07/developer-experience-github-readmes)
+- [Make a README](https://www.makeareadme.com/)
